@@ -86,3 +86,5 @@ ols
 ls --color=auto
 cleard
 clear
+ls --color=auto
+mkdir website
