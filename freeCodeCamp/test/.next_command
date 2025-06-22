@@ -84,3 +84,5 @@ cd node_modules/
 cd ../..
 ols
 ls --color=auto
+cleard
+clear
