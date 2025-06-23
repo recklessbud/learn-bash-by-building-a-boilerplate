@@ -141,3 +141,5 @@ __vsc_prompt_cmd_original
 ls --color=auto -a
 cd .
 touch background.jpg
+ls --color=auto
+touch header.png
