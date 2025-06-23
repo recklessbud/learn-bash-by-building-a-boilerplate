@@ -143,3 +143,4 @@ cd .
 touch background.jpg
 ls --color=auto
 touch header.png
+touch footer.jpeg
